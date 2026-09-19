@@ -3,8 +3,9 @@
 mac-flasher is a tool for flashing ISO images on macOS.
 
 # Versions
- - A AppleScript version, easier to use
- - A bash version, it's harder to use but you can kind of see the progress. (I would recommend the bash version)
+
+- **AppleScript version** - easier to use
+- **Bash version** - harder to use, but provides some progress information. **Recommended**
 
 # Supported ISOs
 
@@ -16,7 +17,7 @@ mac-flasher is a tool for flashing ISO images on macOS.
 
 # Current limitations
 
-- No proper GUI
+- No native GUI
 - CDs
 - macOS recovery images
 
